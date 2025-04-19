@@ -6,7 +6,7 @@ public class Employee {
         int id = 101;
         String department = "Engineering";
         double salary = 75000.00;
-        int phoneno = 9876958434;
+        int phoneno = 987695843;
 
         // Displaying employee details
         System.out.println("=== Employee Details ===");
